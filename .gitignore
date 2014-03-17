@@ -1,0 +1,12 @@
+# Ignore logs #
+*.log.lck
+*.log.1.lck
+*.log
+*.log.1
+crash-reports/
+
+# Ignore backup worlds #
+spawn.bak/
+
+# Ignore misc #
+dynmap/

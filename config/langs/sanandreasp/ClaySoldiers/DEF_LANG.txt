@@ -1,0 +1,98 @@
+﻿--------------------------------------------------------------------------------
+ Clay Soldiers Mod Language File example, made by SanAndreasPs Language Manager
+--------------------------------------------------------------------------------
+// This is an example of the language file for the default language set by the
+// mod (english (US)) which is used as default in all Minecraft languages.
+// To make your own translation based on an other language (for example spanish)
+// copy this file, rename it into the language localization you want
+// (for example "es_ES.txt") and change the values after the 'equal'-sign (=) to
+// anything you seem it's fitting.
+// Supported file extensions for the language files are '.txt',
+// '.lang' and '.SAPlang'.
+// A list of all available language localizations supported by Minecraft can be found here:
+// https://dl.dropbox.com/u/56920617/languages.txt
+// WARNING: This file cannot be used as language file, because it'll be overridden!
+// NOTE: The %s in the localization values are variables! Keep them and place this variable somewhere you see it's fitting
+
+item.claydisruptor.name = Clay Disruptor
+item.brickDoll.name = Lifeless Brick Doll
+item.clayCookie.name = Clay Cookie
+item.claynexus.name = Clay Nexus
+item.clayShearBlade.name = Shear Blade
+item.brickLump.name = Brick Lump
+itemGroup.ClaySoldiers = Clay Soldier Items
+claySoldier0.name = Clay Soldier
+claySoldier1.name = Red Soldier
+claySoldier2.name = Yellow Soldier
+claySoldier3.name = Green Soldier
+claySoldier4.name = Blue Soldier
+claySoldier5.name = Orange Soldier
+claySoldier6.name = Purple Soldier
+claySoldier7.name = Pink Soldier
+claySoldier8.name = Brown Soldier
+claySoldier9.name = White Soldier
+claySoldier10.name = Black Soldier
+claySoldier11.name = Cyan Soldier
+claySoldier12.name = Light Gray Soldier
+claySoldier13.name = Lime Soldier
+claySoldier14.name = Light Blue Soldier
+claySoldier15.name = Magenta Soldier
+claySoldier17.name = Pumpkin Soldier
+claySoldier16.name = Melon Soldier
+claySoldier19.name = Redstone Soldier
+claySoldier18.name = Coal Soldier
+dirtHorse.name = Dirt Horse
+sandHorse.name = Sand Horse
+gravelHorse.name = Gravel Horse
+snowHorse.name = Snow Horse
+grassHorse.name = Grass Horse
+lapisHorse.name = Lapis Horse
+clayHorse.name = Clay Horse
+carrotHorse.name = Carrot Horse
+dirtPegasus.name = Dirt Pegasus
+sandPegasus.name = Sand Pegasus
+gravelPegasus.name = Gravel Pegasus
+snowPegasus.name = Snow Pegasus
+grassPegasus.name = Grass Pegasus
+lapisPegasus.name = Lapis Pegasus
+clayPegasus.name = Clay Pegasus
+carrotPegasus.name = Carrot Pegasus
+whiteBunny.name = White Bunny
+orangeBunny.name = Orange Bunny
+magentaBunny.name = Magenta Bunny
+lightBlueBunny.name = Light Blue Bunny
+yellowBunny.name = Yellow Bunny
+limeBunny.name = Lime Bunny
+pinkBunny.name = Pink Bunny
+greyBunny.name = Gray Bunny
+lightGreyBunny.name = Light Gray Bunny
+cyanBunny.name = Cyan Bunny
+purpleBunny.name = Purple Bunny
+blueBunny.name = Blue Bunny
+brownBunny.name = Brown Bunny
+greenBunny.name = Green Bunny
+redBunny.name = Red Bunny
+blackBunny.name = Black Bunny
+cobbleTurtle.name = Stone Turtle
+mossyTurtle.name = Mossy Turtle
+netherackTurtle.name = Netherrack Turtle
+melonTurtle.name = Melon Turtle
+sandstoneTurtle.name = Sandstone Turtle
+endstoneTurtle.name = Endstone Turtle
+pumpkinTurtle.name = Pumpkin Turtle
+Oak-OakGecko.name = Oakwood-Oakwood-Gecko
+Oak-BirchGecko.name = Birchwood-Oakwood-Gecko
+Oak-PineGecko.name = Pinewood-Oakwood-Gecko
+Oak-JungGecko.name = Junglewood-Oakwood-Gecko
+Birch-OakGecko.name = Oakwood-Birchwood-Gecko
+Birch-BirchGecko.name = Birchwood-Birchwood-Gecko
+Birch-PineGecko.name = Pinewood-Birchwood-Gecko
+Birch-JungGecko.name = Junglewood-Birchwood-Gecko
+Pine-OakGecko.name = Oakwood-Pinewood-Gecko
+Pine-BirchGecko.name = Birchwood-Pinewood-Gecko
+Pine-PineGecko.name = Pinewood-Pinewood-Gecko
+Pine-JungGecko.name = Junglewood-Pinewood-Gecko
+Jung-OakGecko.name = Oakwood-Junglewood-Gecko
+Jung-BirchGecko.name = Birchwood-Junglewood-Gecko
+Jung-PineGecko.name = Pinewood-Junglewood-Gecko
+Jung-JungGecko.name = Junglewood-Junglewood-Gecko

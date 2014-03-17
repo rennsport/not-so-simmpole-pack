@@ -1,0 +1,6 @@
+com/sk89q/commandbook/FlightComponent/FlightSession: {can-fly: false, last-update: 1391391567580}
+com/sk89q/commandbook/locations/TeleportSession:
+    teleport:
+        bringable: {}
+        requests: {}
+    last-update: 1391391567581

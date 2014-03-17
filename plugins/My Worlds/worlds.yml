@@ -1,0 +1,121 @@
+flatbuild_flat:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: flat
+  chunkGenerator: CleanroomGenerator:59,stone,3,dirt,1,grass
+  gamemode: CREATIVE
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: NORMAL
+  reloadWhenEmpty: false
+  spawn:
+    world: flatbuild_flat
+    x: 0.0
+    y: 57.0
+    z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+spawn:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: normal
+  chunkGenerator: CleanroomGenerator:.
+  gamemode: CREATIVE
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: EASY
+  reloadWhenEmpty: false
+  spawn:
+    world: spawn
+    x: 0.5
+    y: 64.0
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+DIM7:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: twilightforest_atg
+  chunkGenerator: ''
+  gamemode: CREATIVE
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: EASY
+  reloadWhenEmpty: false
+  spawn:
+    world: DIM7
+    x: 0.5
+    y: 33.5
+    z: 0.5
+    yaw: 0.0
+    pitch: 0.0
+FlatBuild_old_9-26-2013:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: normal
+  chunkGenerator: CleanroomGenerator:30,stone,32,dirt,1,grass
+  gamemode: CREATIVE
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: HARD
+  reloadWhenEmpty: false
+  spawn:
+    world: FlatBuild_old_9-26-2013
+    x: -9000.5
+    y: 64.0
+    z: -9000.5
+    yaw: 0.0
+    pitch: 90.0
+DIM20:
+  loaded: true
+  keepSpawnLoaded: true
+  environment: promised_atg
+  chunkGenerator: ''
+  gamemode: CREATIVE
+  forcedRespawn: false
+  rememberlastplayerpos: false
+  pvp: true
+  operators: []
+  deniedCreatures: []
+  holdWeather: false
+  hunger: true
+  formIce: true
+  formSnow: true
+  difficulty: EASY
+  reloadWhenEmpty: false
+  spawn:
+    world: DIM20
+    x: 0.0
+    y: 64.0
+    z: 0.0
+    yaw: 0.0
+    pitch: 0.0
+

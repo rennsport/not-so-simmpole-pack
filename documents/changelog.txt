@@ -1,0 +1,26 @@
+Changelog for the Servers for the Poor Not so SimmPole Pack server "SimmPole's FreeBuild".
+website: www.serversforthepoor.com
+contact: simmpole@gmail.com
+
+v0.0.1:
+  - Installed MCPC+, 164-229
+  - Installed mods from Not so SimmPole Pack version 0.0.2-dev
+  - Removed client only mods.
+  - Copied /config from Not so SimmPole Pack version 0.0.2-dev
+  - Copied ATG config from an old Not so SimmPole Pack server
+  - server.properties:
+    - motd=Servers for the Poor - SimmPole's Free Build
+    - spawn-protection=0
+    - max-players=99
+    - online-mode=false
+    - server-ip=
+    - server-port=25585
+    - level-name=spawn
+    - allow-nether=false
+  - bukkit.yml:
+    - allow-end: false
+    - shutdown-message: Server restarting!
+  - spigot.yml:
+    - restart-script: ./start.bat
+
+

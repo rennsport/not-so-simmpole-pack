@@ -1,0 +1,39 @@
+This is a list of the modpacks unshifted block and item IDs in numerical order.
+You can see an explanation of ID shifting here: http://www.minecraftforge.net/forum/index.php?topic=4001.0
+
+    I:drill.id=1501
+    I:autoWorkbench.id=1502
+    I:marker.id=1504
+    I:filler.id=1505
+	I:builder.id=1507
+    I:architect.id=1508
+    I:frame.id=1509
+    I:engine.id=1510
+	I:refinery.id=1514
+    I:blueprintLibrary.id=1515
+    I:assemblyTable.id=1517
+    I:laser.id=1516
+    I:pathMarker.id=1518
+    I:hopper.id=1519
+
+
+
+
+
+
+    I:filteredBuffer.id=1523
+    I:floodGate.id=1524
+
+    I:fuel.id=1531
+
+
+
+    I:miningWell.id=1500
+    I:oil.id=1530
+
+    I:pipe.id=1513
+    I:pump.id=1511
+    I:quarry.id=1503
+
+    I:springBlock.id=1522
+    I:tank.id=1512

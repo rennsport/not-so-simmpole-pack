@@ -1,0 +1,53 @@
+base-folder: 'resources/biomebgm'
+
+day
+{
+        clear
+        {
+                prefix: 'd_'
+                folder: $BASE
+        }
+        storm
+        {
+                prefix: 'ds_'
+                folder: $BASE
+        }
+
+        under
+        {
+                prefix: 'du_'
+                folder: $BASE
+        }
+
+        storm-under
+        {
+                prefix: 'dsu_'
+                folder: $BASE
+        }
+}
+
+night
+{
+        clear
+        {
+                prefix: 'n_'
+                folder: $BASE
+        }
+        storm
+        {
+                prefix: 'ns_'
+                folder: $BASE
+        }
+
+        under
+        {
+                prefix: 'nu_'
+                folder: $BASE
+        }
+
+        storm-under
+        {
+                prefix: 'nsu_'
+                folder: $BASE
+        }
+}

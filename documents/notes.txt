@@ -1,0 +1,1 @@
+To clean up worldgen in flat worlds you can add the name of the flat world under world-settings: in mcpc.yml, and disable the worldgen settings there.
