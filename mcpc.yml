@@ -70,30 +70,31 @@ settings:
   entity-max-speed: '100'
   check-entity-bounding-boxes: false
   load-chunk-on-request: true
+  fml-missing-mods-message: The server requires mods that are absent or out of date on your client
 world-settings:
   default:
     infinite-water-source: true
     flowing-lava-decay: false
-    worldgen-ATG-ATGWorldGenCliffs: false
-    worldgen-pamharvestcraft-PamSaltGenerator: false
-    worldgen-Natura-BaseTreeWorldgen: false
-    worldgen-pamharvestcraft-PamBeeGenerator: false
-    worldgen-NetherX-OreManager: false
-    worldgen-ATG-ATGWorldGenHighAltitudeOres: false
-    worldgen-pamharvestcraft-PamBushesGenerator: false
-    worldgen-ATG-ATGWorldGenRocks: false
-    worldgen-witchery-WitcheryWorldGenerator: false
+    despawn-immediate: true
     worldgen-Natura-BaseCropWorldgen: false
+    worldgen-ATG-ATGWorldGenHighAltitudeOres: false
+    worldgen-ProjRedExploration-GenerationManager: false
+    worldgen-ATG-ATGWorldGenCliffs: false
+    worldgen-witchery-WitcheryWorldGenerator: false
+    worldgen-ATG-ATGWorldGenHighAltitudePockets: false
     worldgen-Natura-BaseCloudWorldgen: false
     worldgen-NetherX-EventManager: false
-    worldgen-ATG-ATGWorldGenHighAltitudePockets: false
-    worldgen-ProjRedExploration-GenerationManager: false
     worldgen-TConstruct-TBaseWorldGenerator: false
-    worldgen-TConstruct-SlimeIslandGen: false
     worldgen-pamharvestcraft-PamTreeGenerator: false
+    worldgen-pamharvestcraft-PamBeeGenerator: false
     worldgen-BerryBushes-BushGen: false
+    worldgen-NetherX-OreManager: false
+    worldgen-pamharvestcraft-PamBushesGenerator: false
+    worldgen-pamharvestcraft-PamSaltGenerator: false
+    worldgen-TConstruct-SlimeIslandGen: false
     worldgen-Artifice-ArtificeWorldGen: false
-    despawn-immediate: true
+    worldgen-Natura-BaseTreeWorldgen: false
+    worldgen-ATG-ATGWorldGenRocks: false
     worldgen-dimdoors-GatewayGenerator: false
     worldgen-BattleTowers-WorldGenHandler: false
   flatbuild_flat:

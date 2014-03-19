@@ -3,11 +3,11 @@
 *.log.1.lck
 *.log
 *.log.1
-crash-reports/
+crash-reports/*
 
 # Ignore backup worlds #
-spawn.bak/
-spawn/
+spawn.bak/*
+spawn/*
 
 # Ignore misc #
-dynmap/
+dynmap/*
