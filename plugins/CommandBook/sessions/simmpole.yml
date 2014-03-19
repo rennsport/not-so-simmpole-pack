@@ -1,9 +1,9 @@
-com/sk89q/commandbook/FlightComponent/FlightSession: {can-fly: false, last-update: 1392673342627}
+com/sk89q/commandbook/FlightComponent/FlightSession: {can-fly: false, last-update: 1395193569138}
 com/sk89q/commandbook/locations/TeleportSession:
     teleport:
         bringable: {}
         requests: {}
-    last-update: 1392673342628
+    last-update: 1395193569139
 com/sk89q/commandbook/session/UserSession:
     messaging: {last-recipient: !!null '', last-recipient-time: 0}
     idle-status:

@@ -74,26 +74,26 @@ world-settings:
   default:
     infinite-water-source: true
     flowing-lava-decay: false
-    despawn-immediate: true
-    worldgen-Natura-BaseTreeWorldgen: false
-    worldgen-Natura-BaseCloudWorldgen: false
-    worldgen-ProjRedExploration-GenerationManager: false
-    worldgen-NetherX-OreManager: false
-    worldgen-Artifice-ArtificeWorldGen: false
-    worldgen-NetherX-EventManager: false
-    worldgen-ATG-ATGWorldGenHighAltitudeOres: false
-    worldgen-pamharvestcraft-PamTreeGenerator: false
-    worldgen-pamharvestcraft-PamBeeGenerator: false
-    worldgen-ATG-ATGWorldGenRocks: false
-    worldgen-Natura-BaseCropWorldgen: false
     worldgen-ATG-ATGWorldGenCliffs: false
-    worldgen-TConstruct-TBaseWorldGenerator: false
-    worldgen-ATG-ATGWorldGenHighAltitudePockets: false
-    worldgen-pamharvestcraft-PamBushesGenerator: false
     worldgen-pamharvestcraft-PamSaltGenerator: false
+    worldgen-Natura-BaseTreeWorldgen: false
+    worldgen-pamharvestcraft-PamBeeGenerator: false
+    worldgen-NetherX-OreManager: false
+    worldgen-ATG-ATGWorldGenHighAltitudeOres: false
+    worldgen-pamharvestcraft-PamBushesGenerator: false
+    worldgen-ATG-ATGWorldGenRocks: false
     worldgen-witchery-WitcheryWorldGenerator: false
+    worldgen-Natura-BaseCropWorldgen: false
+    worldgen-Natura-BaseCloudWorldgen: false
+    worldgen-NetherX-EventManager: false
+    worldgen-ATG-ATGWorldGenHighAltitudePockets: false
+    worldgen-ProjRedExploration-GenerationManager: false
+    worldgen-TConstruct-TBaseWorldGenerator: false
     worldgen-TConstruct-SlimeIslandGen: false
+    worldgen-pamharvestcraft-PamTreeGenerator: false
     worldgen-BerryBushes-BushGen: false
+    worldgen-Artifice-ArtificeWorldGen: false
+    despawn-immediate: true
     worldgen-dimdoors-GatewayGenerator: false
     worldgen-BattleTowers-WorldGenHandler: false
   flatbuild_flat:
